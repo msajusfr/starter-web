@@ -21,3 +21,6 @@ eeeeeeeeeee
 eeeeeeeeeeeeee
 
 ## How To Contribute
+
+### Copyright
+JKkhkjh
